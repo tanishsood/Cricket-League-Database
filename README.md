@@ -1,1 +1,1 @@
-# Cricket-League-Database
+# Indian-Premier-League-Project
